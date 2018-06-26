@@ -1,0 +1,8 @@
+objectives 3 maxgens 250 boundarylayer 12 insidelayer 0
+objectives 4 maxgens 300 boundarylayer 8 insidelayer 0
+objectives 5 maxgens 350 boundarylayer 6 insidelayer 0
+objectives 6 maxgens 400 boundarylayer 6 insidelayer 0
+objectives 7 maxgens 450 boundarylayer 3 insidelayer 2
+objectives 8 maxgens 500 boundarylayer 3 insidelayer 2
+objectives 9 maxgens 600 boundarylayer 3 insidelayer 2
+objectives 10 maxgens 750 boundarylayer 3 insidelayer 2
